@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Karuna Bishnoi 👋
 
-<!--
-**Karuna56-bishnoi/Karuna56-bishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Undergraduate, Computer Science
 
-Here are some ideas to get you started:
+💻 Passionate about Full-Stack Development (MERN Stack), Machine Learning, and Web Development
+🌱 Learning Deep Learning, NLP, and exploring DevOps tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Worked on projects like:
+- Real-Time Chat App (MERN + Socket.IO)
+- Question Paper Generator (Flask + NLP)
+- Deepfake Detection Research (TensorFlow + OpenCV)
+
+🏆 Achievements: Internship at IIT Guwahati & Nelumbus Technology
+
+🌐 Portfolio: https://portfolio-eight-eosin-54.vercel.app/
+📫 Contact: bishnoikaruna5@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/karuna-bishnoi/
+
+⚡I love building projects that combine AI and web technologies!
